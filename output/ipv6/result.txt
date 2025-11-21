@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 15:09:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-22 04:18:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -442,6 +442,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森综合,https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
@@ -449,17 +450,16 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
-东森超视,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森电影,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森电影,https://live.catvod.com/catvod_com.php?id=ettvwestern
 东森电影,http://live.catvod.com/smart.php?id=ettvwestern
+东森电影,https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
@@ -574,17 +574,16 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森电影,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森电影,https://live.catvod.com/catvod_com.php?id=ettvwestern
 东森电影,http://live.catvod.com/smart.php?id=ettvwestern
+东森电影,https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 龙祥电影,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=527c504b89b6315d86edcbebb4bdb0e9d5a73239b9391dd710dfd60aaa88e89d%3A1763687928%3AMTcyLjIxMi4xNjcuODY%3D
 龙祥电影,https://hls-gateway.vpstv.net/streams/476295.m3u8
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
-东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern
@@ -593,8 +592,10 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=9b66dc4f4ffc47ae01aa9f7484753c8ee9002debf9cb3073fcabdff8976e77f5%3A1763428767%3ANDAuMTE2LjkyLjEyMw%3D%3D
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=6e7b55e1668795a0c1e33b232844e490bc718eb5fce90a01b1603075ac11afad%3A1763601523%3ANTIuMTczLjE2My4xMzA%3D
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
@@ -602,7 +603,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
-东森超视,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 
 🎥咪咕直播,#genre#
 咪咕直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
