@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251121035915 +0800">
+<tv date="20251121070934 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2172,52 +2172,52 @@
 	<programme channel="CETV-4" start="20251121234000 +0800" stop="20251121235900 +0800">
 		<title lang="zh">体育大思政课</title>
 	</programme>
-	<channel id="CHC动作电影">
-		<display-name lang="zh">CHC动作电影</display-name>
+	<channel id="动作">
+		<display-name lang="zh">动作</display-name>
 	</channel>
-	<programme channel="CHC动作电影" start="20251121001000 +0800" stop="20251121020500 +0800">
+	<programme channel="动作" start="20251121001000 +0800" stop="20251121020500 +0800">
 		<title lang="zh">洪湖赤卫队</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121020500 +0800" stop="20251121033500 +0800">
+	<programme channel="动作" start="20251121020500 +0800" stop="20251121033500 +0800">
 		<title lang="zh">假大侠</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121033500 +0800" stop="20251121050000 +0800">
+	<programme channel="动作" start="20251121033500 +0800" stop="20251121050000 +0800">
 		<title lang="zh">虎头要塞 最后决战</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121050000 +0800" stop="20251121063000 +0800">
+	<programme channel="动作" start="20251121050000 +0800" stop="20251121063000 +0800">
 		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121063000 +0800" stop="20251121080000 +0800">
+	<programme channel="动作" start="20251121063000 +0800" stop="20251121080000 +0800">
 		<title lang="zh">古田会议</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121080000 +0800" stop="20251121093500 +0800">
+	<programme channel="动作" start="20251121080000 +0800" stop="20251121093500 +0800">
 		<title lang="zh">打过长江去</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121093500 +0800" stop="20251121113500 +0800">
+	<programme channel="动作" start="20251121093500 +0800" stop="20251121113500 +0800">
 		<title lang="zh">刀尖</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121113500 +0800" stop="20251121130500 +0800">
+	<programme channel="动作" start="20251121113500 +0800" stop="20251121130500 +0800">
 		<title lang="zh">大刀关胜</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121130500 +0800" stop="20251121145500 +0800">
+	<programme channel="动作" start="20251121130500 +0800" stop="20251121145500 +0800">
 		<title lang="zh">倚天屠龙记之九阳神功</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121145500 +0800" stop="20251121164500 +0800">
+	<programme channel="动作" start="20251121145500 +0800" stop="20251121164500 +0800">
 		<title lang="zh">超能一家人</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121164500 +0800" stop="20251121182500 +0800">
+	<programme channel="动作" start="20251121164500 +0800" stop="20251121182500 +0800">
 		<title lang="zh">扫毒2天地对决</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121182500 +0800" stop="20251121203000 +0800">
+	<programme channel="动作" start="20251121182500 +0800" stop="20251121203000 +0800">
 		<title lang="zh">93国际列车大劫案：莫斯科行动</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121203000 +0800" stop="20251121215500 +0800">
+	<programme channel="动作" start="20251121203000 +0800" stop="20251121215500 +0800">
 		<title lang="zh">金牌女仵作之阴阳法尺</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121215500 +0800" stop="20251121233000 +0800">
+	<programme channel="动作" start="20251121215500 +0800" stop="20251121233000 +0800">
 		<title lang="zh">螳螂</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20251121233000 +0800" stop="20251121235900 +0800">
+	<programme channel="动作" start="20251121233000 +0800" stop="20251121235900 +0800">
 		<title lang="zh">狄仁杰之四大天王</title>
 	</programme>
 	<channel id="CHC家庭影院">
@@ -2297,6 +2297,60 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20251121220000 +0800" stop="20251121232800 +0800">
 		<title lang="zh">疾速营救</title>
+	</programme>
+	<channel id="东森电影">
+		<display-name lang="zh">东森电影</display-name>
+	</channel>
+	<programme channel="东森电影" start="20251121000000 +0800" stop="20251121010000 +0800">
+		<title lang="zh">东森夜线新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121010000 +0800" stop="20251121020000 +0800">
+		<title lang="zh">东森晚间新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121020000 +0800" stop="20251121030000 +0800">
+		<title lang="zh">东森晚间新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121030000 +0800" stop="20251121040000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森电影" start="20251121040000 +0800" stop="20251121050000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森电影" start="20251121050000 +0800" stop="20251121060000 +0800">
+		<title lang="zh">东森夜线新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121060000 +0800" stop="20251121090000 +0800">
+		<title lang="zh">Hello台湾</title>
+	</programme>
+	<programme channel="东森电影" start="20251121090000 +0800" stop="20251121100000 +0800">
+		<title lang="zh">东森新闻0900</title>
+	</programme>
+	<programme channel="东森电影" start="20251121100000 +0800" stop="20251121140000 +0800">
+		<title lang="zh">东森午安新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121140000 +0800" stop="20251121150000 +0800">
+		<title lang="zh">东森午安新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121150000 +0800" stop="20251121160000 +0800">
+		<title lang="zh">东森大社会</title>
+	</programme>
+	<programme channel="东森电影" start="20251121160000 +0800" stop="20251121170000 +0800">
+		<title lang="zh">东森晚间新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121170000 +0800" stop="20251121200000 +0800">
+		<title lang="zh">东森晚间新闻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121200000 +0800" stop="20251121210000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森电影" start="20251121210000 +0800" stop="20251121220000 +0800">
+		<title lang="zh">东森世界日报</title>
+	</programme>
+	<programme channel="东森电影" start="20251121220000 +0800" stop="20251121230000 +0800">
+		<title lang="zh">关键时刻</title>
+	</programme>
+	<programme channel="东森电影" start="20251121230000 +0800" stop="20251121235900 +0800">
+		<title lang="zh">关键时刻</title>
 	</programme>
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
@@ -3336,6 +3390,57 @@
 	<programme channel="北京卫视" start="20251121232000 +0800" stop="20251121235900 +0800">
 		<title lang="zh">沉默的荣耀(18)</title>
 	</programme>
+	<channel id="喜剧">
+		<display-name lang="zh">喜剧</display-name>
+	</channel>
+	<programme channel="喜剧" start="20251121000000 +0800" stop="20251121005300 +0800">
+		<title lang="zh">非常同伙</title>
+	</programme>
+	<programme channel="喜剧" start="20251121005300 +0800" stop="20251121023800 +0800">
+		<title lang="zh">真爱百分百</title>
+	</programme>
+	<programme channel="喜剧" start="20251121023800 +0800" stop="20251121040000 +0800">
+		<title lang="zh">非常同伙</title>
+	</programme>
+	<programme channel="喜剧" start="20251121040000 +0800" stop="20251121053800 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
+	<programme channel="喜剧" start="20251121053800 +0800" stop="20251121071200 +0800">
+		<title lang="zh">初恋50次</title>
+	</programme>
+	<programme channel="喜剧" start="20251121071200 +0800" stop="20251121085000 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
+	<programme channel="喜剧" start="20251121085000 +0800" stop="20251121102400 +0800">
+		<title lang="zh">初恋50次</title>
+	</programme>
+	<programme channel="喜剧" start="20251121102400 +0800" stop="20251121120200 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
+	<programme channel="喜剧" start="20251121120200 +0800" stop="20251121133600 +0800">
+		<title lang="zh">初恋50次</title>
+	</programme>
+	<programme channel="喜剧" start="20251121133600 +0800" stop="20251121151400 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
+	<programme channel="喜剧" start="20251121151400 +0800" stop="20251121164800 +0800">
+		<title lang="zh">初恋50次</title>
+	</programme>
+	<programme channel="喜剧" start="20251121164800 +0800" stop="20251121182600 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
+	<programme channel="喜剧" start="20251121182600 +0800" stop="20251121200000 +0800">
+		<title lang="zh">初恋50次</title>
+	</programme>
+	<programme channel="喜剧" start="20251121200000 +0800" stop="20251121213800 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
+	<programme channel="喜剧" start="20251121213800 +0800" stop="20251121231200 +0800">
+		<title lang="zh">初恋50次</title>
+	</programme>
+	<programme channel="喜剧" start="20251121231200 +0800" stop="20251121235900 +0800">
+		<title lang="zh">妈妈咪呀</title>
+	</programme>
 	<channel id="大湾区卫视">
 		<display-name lang="zh">大湾区卫视</display-name>
 	</channel>
@@ -4157,6 +4262,15 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251121100400 +0800" stop="20251121105400 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251121105400 +0800" stop="20251121120600 +0800">
+		<title lang="zh">蟒山</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251121120600 +0800" stop="20251121124600 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251121124600 +0800" stop="20251121140900 +0800">
+		<title lang="zh">变异危机</title>
 	</programme>
 	<channel id="新动漫">
 		<display-name lang="zh">新动漫</display-name>
@@ -5874,6 +5988,42 @@
 	<programme channel="魅力足球" start="20251121235000 +0800" stop="20251121235900 +0800">
 		<title lang="zh">2025-2026法甲第4轮:里尔-图卢兹</title>
 	</programme>
+	<channel id="龙祥电影">
+		<display-name lang="zh">龙祥电影</display-name>
+	</channel>
+	<programme channel="龙祥电影" start="20251121020500 +0800" stop="20251121041500 +0800">
+		<title lang="zh">头七还魂夜</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121041500 +0800" stop="20251121062000 +0800">
+		<title lang="zh">霹雳大喇叭（双语）</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121062000 +0800" stop="20251121090000 +0800">
+		<title lang="zh">猜猜我是谁</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121090000 +0800" stop="20251121105000 +0800">
+		<title lang="zh">肝胆豪情</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121105000 +0800" stop="20251121125000 +0800">
+		<title lang="zh">踢到宝</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121125000 +0800" stop="20251121144500 +0800">
+		<title lang="zh">你OK我OK</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121144500 +0800" stop="20251121164500 +0800">
+		<title lang="zh">大事件（双语）</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121164500 +0800" stop="20251121185000 +0800">
+		<title lang="zh">运财智多星</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121185000 +0800" stop="20251121210000 +0800">
+		<title lang="zh">傲气雄鹰</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121210000 +0800" stop="20251121231500 +0800">
+		<title lang="zh">逃学威龙（台语）</title>
+	</programme>
+	<programme channel="龙祥电影" start="20251121231500 +0800" stop="20251121235900 +0800">
+		<title lang="zh">锦衣卫</title>
+	</programme>
 	<channel id="NewTV动作电影">
 		<display-name lang="zh">NewTV动作电影</display-name>
 	</channel>
@@ -5903,6 +6053,18 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251121092900 +0800" stop="20251121104400 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251121104400 +0800" stop="20251121113400 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251121113400 +0800" stop="20251121125500 +0800">
+		<title lang="zh">机器人战警</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251121125500 +0800" stop="20251121133500 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251121133500 +0800" stop="20251121153400 +0800">
+		<title lang="zh">笑傲江湖</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
