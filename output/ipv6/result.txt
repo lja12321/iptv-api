@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-23 04:20:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-24 04:17:31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -585,6 +585,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 龙祥电影,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=527c504b89b6315d86edcbebb4bdb0e9d5a73239b9391dd710dfd60aaa88e89d%3A1763687928%3AMTcyLjIxMi4xNjcuODY%3D
 龙祥电影,https://hls-gateway.vpstv.net/streams/476295.m3u8
 龙祥电影,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=5d9284a3d29d5e495426e2de1975c09c9d99c6bd1512c3619c45efe5ba0ef4d5%3A1763774206%3AMTcyLjIwOC4yMy42Ng%3D%3D
+龙祥电影,https://live.catvod.com/live.php?id=lungxiangtime_twn&token=f6daca5427cb24ee295c7428dd46c8ec230a0f491c0fdefcd48a340252acda8a%3A1763861916%3AMTcyLjE4My45NS4xNDc%3D
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
