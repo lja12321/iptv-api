@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lja12321/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-30 04:26:36
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-01 04:28:16
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -905,6 +905,8 @@ https://live.catvod.com/live.php?id=lungxiangtime_twn&token=a2d48f05e1972c348eb3
 https://live.catvod.com/live.php?id=lungxiangtime_twn&token=df7f6a76ce17635c5bddd28c1664c99fdd17d320a1ad707865dbd6a8c7a8c892%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 #EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🌊港·澳·台",龙祥电影
 https://live.catvod.com/live.php?id=lungxiangtime_twn&token=83a30c393a850ca94971de7d6662eae3e6bc7c64c8afe8e3b157eebb6add0c87%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🌊港·澳·台",龙祥电影
+https://live.catvod.com/live.php?id=lungxiangtime_twn&token=1ce2067b9b5d01612bb063c0e4534aeac7a874453465fbaead92dfc111654750%3A1764466686%3ANjguMjIwLjYxLjI%3D
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台",东森超视
@@ -1441,6 +1443,10 @@ http://live.ottiptv.cc/huya/11342421
 https://yylunbo.ottiptv.cc/yy/1462895099
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🏛经典剧场",林正英
 https://yylunbo.ottiptv.cc/yy/1351505899
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🏛经典剧场",林正英
+https://yylunbo.ottiptv.cc/yy/1354932444
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🏛经典剧场",林正英
+https://yylunbo.ottiptv.cc/yy/34229877
 #EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
 https://yylunbo.ottiptv.cc/yy/1355480591
 #EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
@@ -1455,6 +1461,12 @@ https://www.goodiptv.club/douyu/10298856
 https://www.goodiptv.club/huya/11602031
 #EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
 https://www.goodiptv.club/douyu/9403781
+#EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
+https://yylunbo.ottiptv.cc/yy/1382745181
+#EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
+https://yylunbo.ottiptv.cc/yy/1354936201
+#EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
+https://yylunbo.ottiptv.cc/yy/1382735627
 #EXTINF:-1 tvg-name="恐怖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖.png" group-title="🏛经典剧场",恐怖
 https://yylunbo.ottiptv.cc/yy/24066336
 #EXTINF:-1 tvg-name="恐怖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖.png" group-title="🏛经典剧场",恐怖
