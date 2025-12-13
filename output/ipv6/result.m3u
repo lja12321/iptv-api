@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lja12321/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-13 04:26:47
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-14 04:23:42
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1423,6 +1423,8 @@ http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
 https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+#EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
+https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://lu.wqwqwq.sbs/yy/1354930909
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
@@ -1481,6 +1483,8 @@ http://live.ottiptv.cc/huya/11342412
 https://yylunbo.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🏛经典剧场",周星驰
 https://live.ottiptv.cc/huya/11342412
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰.png" group-title="🏛经典剧场",周星驰
+https://yylunbo.ottiptv.cc/yy/29945997
 #EXTINF:-1 tvg-name="成龙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙.png" group-title="🏛经典剧场",成龙
 https://live.ottiptv.cc/huya/11342386
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🏛经典剧场",林正英
@@ -1497,6 +1501,8 @@ https://yylunbo.ottiptv.cc/yy/34229877
 https://yylunbo.ottiptv.cc/yy/1383559729
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🏛经典剧场",林正英
 https://stream1.freetv.fun/lin-zheng-ying-4.ctv
+#EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🏛经典剧场",林正英
+https://yylunbo.ottiptv.cc/yy/1453955779
 #EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
 https://yylunbo.ottiptv.cc/yy/1355480591
 #EXTINF:-1 tvg-name="喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧.png" group-title="🏛经典剧场",喜剧
@@ -1583,3 +1589,5 @@ https://tv.iill.top/litv/4gtv-4gtv016
 https://tv.iill.top/litv/4gtv-4gtv016&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 #EXTINF:-1 tvg-name="韩国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国.png" group-title="🏛其他",韩国
 https://tv.iill.top/litv/4gtv-4gtv016&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+#EXTINF:-1 tvg-name="韩国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国.png" group-title="🏛其他",韩国
+https://tv.iill.top/litv/4gtv-4gtv016&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896

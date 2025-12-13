@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 04:26:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-14 04:23:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -729,6 +729,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+音乐广播,https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
@@ -760,6 +761,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 周星驰,http://live.ottiptv.cc/huya/11342412
 周星驰,https://yylunbo.ottiptv.cc/yy/38670875
 周星驰,https://live.ottiptv.cc/huya/11342412
+周星驰,https://yylunbo.ottiptv.cc/yy/29945997
 成龙,https://live.ottiptv.cc/huya/11342386
 林正英,http://live.ottiptv.cc/huya/11342421
 林正英,https://yylunbo.ottiptv.cc/yy/1462895099
@@ -768,6 +770,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 林正英,https://yylunbo.ottiptv.cc/yy/34229877
 林正英,https://yylunbo.ottiptv.cc/yy/1383559729
 林正英,https://stream1.freetv.fun/lin-zheng-ying-4.ctv
+林正英,https://yylunbo.ottiptv.cc/yy/1453955779
 喜剧,https://yylunbo.ottiptv.cc/yy/1355480591
 喜剧,https://yylunbo.ottiptv.cc/yy/1355269576
 喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
@@ -813,3 +816,4 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 韩国,https://tv.iill.top/litv/4gtv-4gtv016
 韩国,https://tv.iill.top/litv/4gtv-4gtv016&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 韩国,https://tv.iill.top/litv/4gtv-4gtv016&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
+韩国,https://tv.iill.top/litv/4gtv-4gtv016&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
